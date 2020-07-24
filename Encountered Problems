@@ -4,5 +4,6 @@
 * Need to include the date in which the company is set to Report Earnings on
 * Need to move past hard coding dates that indicate what days earnings reports will be scraped on. 
          ——— Possible Solution ————
-* Use the date-time library to correlate the current date with the links date. The links date ends in YYYY-MM-DD. We need to find a way to automatically retrieve data for X amount of days instead of a fixed amount of days
+* Use the date-time library to correlate the current date with the links date. The links date ends in YYYY-MM-DD. 
+We need to find a way to automatically retrieve data for X amount of days instead of a fixed amount of days
 * Find a way to use the links collected in the dictionaries key value pair to achieve the retrieval of the Companies full name
