@@ -4,7 +4,7 @@ from time import sleep
 import json 
 import pandas as pd 
 
-url = 'https://finance.yahoo.com/calendar/earnings?from=2020-07-12&to=2020-07-18&day=2020-08-06'
+url = "https://finance.yahoo.com/calendar/earnings?from=2020-07-12&to=2020-07-18&day=2020-08-06"
 
 r = requests.get(url)
 soup = BeautifulSoup(r.content, 'html.parser')
@@ -28,26 +28,29 @@ for page in pages:
     G = requests.get(page)
     soup = BeautifulSoup(G.content, 'html.parser')
     rows = soup.select('tbody tr')
-    print(page)
+    h1 = soup.find("h3", class_ = "Mb(10px) D(ib) Mend(25px)").text
+    h2 = soup.find('span',class_ = 'Mstart(15px) Fw(500) Fz(s)').text
+    Day_Header = h1.replace(h2, '')
+
 
     for row in rows:
         
         d = dict()
 
-        #d['Day Header'] = Day_Header
+        d['Day Header'] = Day_Header
         #d['Stock Name'] = 
-        d['Ticker Symbol'] = row.select_one('.C($linkColor)').text.strip()
-        d['Stock Link'] = 'https://finance.yahoo.com' + row.select_one('.C($linkColor)')['href']
+        d['Ticker Symbol'] = row.select_one('.C\\(\\$linkColor\\)').text.strip()
+        d['Stock Link'] = 'https://finance.yahoo.com' + row.select_one('.C\\(\\$linkColor\\)')['href']
         
 
         data.append(d)
 
-        with open('yahoo_page_finance.json', 'w') as f:
+        with open('DATA.json', 'w') as f:
             json.dump(data, f)
 
-        with open('yahoo_page_finance.json', 'r') as f:
+        with open('DATA.json', 'r') as f:
             data = json.load(f)
 
-#print(data)
+print(data)
 print("===========================================")
 #print(rows)

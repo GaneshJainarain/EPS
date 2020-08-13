@@ -61,7 +61,7 @@ print("========================================")
 print("SYMBOL|| COMPANY|| EARNINGS CALL TIME|| EPS EST|| REPORTED EPS|| SURPRISE% ")
 
 outF = open("data.txt", "w")
-outF.write("hello")
+
 
 for everyi in composite_list:
     data = []
@@ -70,6 +70,7 @@ for everyi in composite_list:
     print(everyi)
     outF.write(str(everyi))
     outF.write('\n')
+    print(i)
 outF.close()
     
 
