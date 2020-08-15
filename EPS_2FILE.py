@@ -69,7 +69,7 @@ class EPS_2FILE:
                 datetime.strptime(self.val, '%Y-%m-%d')
                 return "NICE"
             else: 
-                return False
+                return("Please Enter a Valid Date")
 
         except ValueError:
             return "ERRORR"

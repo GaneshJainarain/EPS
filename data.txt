@@ -31,10 +31,6 @@ SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
 
 LINK: https://finance.yahoo.com/quote/AKER?p=AKER
 
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['BOXL', 'Boxlight Corp', 'TAS', '-0.05', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/BOXL?p=BOXL
-
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['BMNM', 'Bimini Capital Management Inc', 'TAS', '-', '-', '-']
 
 LINK: https://finance.yahoo.com/quote/BMNM?p=BMNM
@@ -42,6 +38,10 @@ LINK: https://finance.yahoo.com/quote/BMNM?p=BMNM
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['BTAI', 'BioXcel Therapeutics Inc', 'TAS', '-0.75', '-', '-']
 
 LINK: https://finance.yahoo.com/quote/BTAI?p=BTAI
+
+SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['BOXL', 'Boxlight Corp', 'TAS', '-0.05', '-', '-']
+
+LINK: https://finance.yahoo.com/quote/BOXL?p=BOXL
 
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['BGGSQ', 'Briggs & Stratton Corp', 'Before Market Open', '-0.67', '-', '-']
 
@@ -55,13 +55,13 @@ SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
 
 LINK: https://finance.yahoo.com/quote/CTRCQ?p=CTRCQ
 
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['BPTH', 'Bio Path Holdings Inc', 'TAS', '-0.89', '-0.55', '+38.2']
-
-LINK: https://finance.yahoo.com/quote/BPTH?p=BPTH
-
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['BASI', 'Bioanalytical Systems Inc', 'TAS', '-', '-', '-']
 
 LINK: https://finance.yahoo.com/quote/BASI?p=BASI
+
+SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['BPTH', 'Bio Path Holdings Inc', 'TAS', '-0.89', '-0.55', '+38.2']
+
+LINK: https://finance.yahoo.com/quote/BPTH?p=BPTH
 
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['TLRDQ', 'Tailored Brands Inc', 'After Market Close', '-', '-', '-']
 
@@ -70,6 +70,10 @@ LINK: https://finance.yahoo.com/quote/TLRDQ?p=TLRDQ
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['OMQS', 'Omniq Corp', 'TAS', '-0.18', '-0.49', '-172.22']
 
 LINK: https://finance.yahoo.com/quote/OMQS?p=OMQS
+
+SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['PKDC', 'Parker Drilling Co', 'Time Not Supplied', '-', '-', '-']
+
+LINK: https://finance.yahoo.com/quote/PKDC?p=PKDC
 
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['TY', 'Tri-Continental Corp', 'Time Not Supplied', '-', '-', '-']
 
@@ -83,33 +87,29 @@ SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
 
 LINK: https://finance.yahoo.com/quote/FTRCQ?p=FTRCQ
 
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['PKDC', 'Parker Drilling Co', 'Time Not Supplied', '-', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/PKDC?p=PKDC
-
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['CIDM', 'Cinedigm Corp', 'Before Market Open', '-0.03', '-0.08', '-166.67']
 
 LINK: https://finance.yahoo.com/quote/CIDM?p=CIDM
+
+SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['CXDC', 'China XD Plastics Company Ltd', 'Before Market Open', '-', '-', '-']
+
+LINK: https://finance.yahoo.com/quote/CXDC?p=CXDC
 
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['CCM', 'Concord Medical Services Holdings Ltd', 'After Market Close', '-', '-', '-']
 
 LINK: https://finance.yahoo.com/quote/CCM?p=CCM
 
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['DFODQ', 'Dean Foods Co', 'Before Market Open', '-', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/DFODQ?p=DFODQ
-
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['EMMS', 'Emmis Communications Corp', 'Before Market Open', '-', '-', '-']
 
 LINK: https://finance.yahoo.com/quote/EMMS?p=EMMS
 
+SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['DFODQ', 'Dean Foods Co', 'Before Market Open', '-', '-', '-']
+
+LINK: https://finance.yahoo.com/quote/DFODQ?p=DFODQ
+
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['MSGS', 'Madison Square Garden Sports Corp', 'TAS', '-2.03', '-', '-']
 
 LINK: https://finance.yahoo.com/quote/MSGS?p=MSGS
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['CXDC', 'China XD Plastics Company Ltd', 'Before Market Open', '-', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/CXDC?p=CXDC
 
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['CLSN', 'Celsion Corp', 'TAS', '-0.14', '-', '-']
 
@@ -151,21 +151,21 @@ SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
 
 LINK: https://finance.yahoo.com/quote/DKNG?p=DKNG
 
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['EFOI', 'Energy Focus Inc', 'TAS', '-0.37', '-1.36', '-267.57']
-
-LINK: https://finance.yahoo.com/quote/EFOI?p=EFOI
-
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['EFOI', 'Energy Focus Inc', 'Before Market Open', '-0.37', '-1.36', '-267.57']
 
 LINK: https://finance.yahoo.com/quote/EFOI?p=EFOI
 
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['GEENQ', 'Global Eagle Entertainment Inc', 'After Market Close', '-13.59', '-', '-']
+SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['EFOI', 'Energy Focus Inc', 'TAS', '-0.37', '-1.36', '-267.57']
 
-LINK: https://finance.yahoo.com/quote/GEENQ?p=GEENQ
+LINK: https://finance.yahoo.com/quote/EFOI?p=EFOI
 
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['OMEX', 'Odyssey Marine Exploration Inc', 'Time Not Supplied', '-', '-', '-']
 
 LINK: https://finance.yahoo.com/quote/OMEX?p=OMEX
+
+SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['GEENQ', 'Global Eagle Entertainment Inc', 'After Market Close', '-13.59', '-', '-']
+
+LINK: https://finance.yahoo.com/quote/GEENQ?p=GEENQ
 
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['EVK', 'Ever-Glory International Group Inc', 'TAS', '-', '-', '-']
 
@@ -183,10 +183,6 @@ SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
 
 LINK: https://finance.yahoo.com/quote/SFUN?p=SFUN
 
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['GWGH', 'GWG Holdings Inc', 'After Market Close', '-', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/GWGH?p=GWGH
-
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['STG', 'Sunlands Technology Group', 'Before Market Open', '-', '-', '-']
 
 LINK: https://finance.yahoo.com/quote/STG?p=STG
@@ -194,6 +190,10 @@ LINK: https://finance.yahoo.com/quote/STG?p=STG
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['STG', 'Sunlands Technology Group', 'TAS', '-', '-', '-']
 
 LINK: https://finance.yahoo.com/quote/STG?p=STG
+
+SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['GWGH', 'GWG Holdings Inc', 'After Market Close', '-', '-', '-']
+
+LINK: https://finance.yahoo.com/quote/GWGH?p=GWGH
 
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['SGRP', 'SPAR Group Inc', 'Time Not Supplied', '-', '-', '-']
 
@@ -219,6 +219,14 @@ SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
 
 LINK: https://finance.yahoo.com/quote/THMO?p=THMO
 
+SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['RMBL', 'RumbleON Inc', 'TAS', '-4.56', '-', '-']
+
+LINK: https://finance.yahoo.com/quote/RMBL?p=RMBL
+
+SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['RMBL', 'RumbleON Inc', 'Before Market Open', '-4.56', '-', '-']
+
+LINK: https://finance.yahoo.com/quote/RMBL?p=RMBL
+
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['TTNP', 'Titan Pharmaceuticals Inc', 'TAS', '-', '-', '-']
 
 LINK: https://finance.yahoo.com/quote/TTNP?p=TTNP
@@ -227,13 +235,9 @@ SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
 
 LINK: https://finance.yahoo.com/quote/TTNP?p=TTNP
 
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['RMBL', 'RumbleON Inc', 'TAS', '-4.56', '-', '-']
+SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['OBLG', 'Oblong Inc', 'Before Market Open', '-', '-', '-']
 
-LINK: https://finance.yahoo.com/quote/RMBL?p=RMBL
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['RMBL', 'RumbleON Inc', 'Before Market Open', '-4.56', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/RMBL?p=RMBL
+LINK: https://finance.yahoo.com/quote/OBLG?p=OBLG
 
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['OTLK', 'Outlook Therapeutics Inc', 'TAS', '-0.11', '-', '-']
 
@@ -247,29 +251,25 @@ SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
 
 LINK: https://finance.yahoo.com/quote/UI?p=UI
 
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['OBLG', 'Oblong Inc', 'Before Market Open', '-', '-', '-']
+SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['TKOI', 'Telkonet Inc', 'TAS', '-', '-', '-']
 
-LINK: https://finance.yahoo.com/quote/OBLG?p=OBLG
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['USIO', 'Usio Inc', 'TAS', '-0.09', '-0.1', '-11.11']
-
-LINK: https://finance.yahoo.com/quote/USIO?p=USIO
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['WSTL', 'Westell Technologies Inc', 'After Market Close', '-', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/WSTL?p=WSTL
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['NEON', 'Neonode Inc', 'Before Market Open', '-0.11', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/NEON?p=NEON
+LINK: https://finance.yahoo.com/quote/TKOI?p=TKOI
 
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['NEON', 'Neonode Inc', 'TAS', '-0.11', '-', '-']
 
 LINK: https://finance.yahoo.com/quote/NEON?p=NEON
 
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['TKOI', 'Telkonet Inc', 'TAS', '-', '-', '-']
+SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['NEON', 'Neonode Inc', 'Before Market Open', '-0.11', '-', '-']
 
-LINK: https://finance.yahoo.com/quote/TKOI?p=TKOI
+LINK: https://finance.yahoo.com/quote/NEON?p=NEON
+
+SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['WSTL', 'Westell Technologies Inc', 'After Market Close', '-', '-', '-']
+
+LINK: https://finance.yahoo.com/quote/WSTL?p=WSTL
+
+SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['USIO', 'Usio Inc', 'TAS', '-0.09', '-0.1', '-11.11']
+
+LINK: https://finance.yahoo.com/quote/USIO?p=USIO
 
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['TBLT', 'Toughbuilt Industries Inc', 'TAS', '-0.14', '-0.11', '+21.43']
 
@@ -291,21 +291,17 @@ SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
 
 LINK: https://finance.yahoo.com/quote/RBCN?p=RBCN
 
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['VISL', 'Vislink Technologies Inc', 'TAS', '-', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/VISL?p=VISL
-
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['TCI', 'Transcontinental Realty Investors Inc', 'After Market Close', '-', '-', '-']
 
 LINK: https://finance.yahoo.com/quote/TCI?p=TCI
 
+SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['VISL', 'Vislink Technologies Inc', 'TAS', '-', '-', '-']
+
+LINK: https://finance.yahoo.com/quote/VISL?p=VISL
+
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['NVUS', 'Novus Therapeutics Inc', 'Time Not Supplied', '-0.16', '-', '-']
 
 LINK: https://finance.yahoo.com/quote/NVUS?p=NVUS
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['OCGN', 'Ocugen Inc', 'TAS', '-0.03', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/OCGN?p=OCGN
 
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['SNGX', 'Soligenix Inc', 'TAS', '-0.13', '-', '-']
 
@@ -314,4 +310,8 @@ LINK: https://finance.yahoo.com/quote/SNGX?p=SNGX
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['TENX', 'Tenax Therapeutics Inc', 'Before Market Open', '-0.21', '-', '-']
 
 LINK: https://finance.yahoo.com/quote/TENX?p=TENX
+
+SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['OCGN', 'Ocugen Inc', 'TAS', '-0.03', '-', '-']
+
+LINK: https://finance.yahoo.com/quote/OCGN?p=OCGN
 
