@@ -74,6 +74,7 @@ class EPS_2FILE:
         except ValueError:
             return "ERRORR"
     
+
     def Company_Name(self):
 
         if self.Company_Name_List == []:
@@ -82,6 +83,7 @@ class EPS_2FILE:
             for Company in self.Company_Name_List:
                 print(Company.text)
 
+
     def Create_Matrix(self):
 
         new = []
@@ -89,30 +91,41 @@ class EPS_2FILE:
             l = new.append(i.text)
         composite_list = [new[x:x+6] for x in range(0, len(new),6)]
 
-        h1 = self.soup.find("h3", class_ = "Mb(10px) D(ib) Mend(25px)").text
-        h2 = self.soup.find('span',class_ = 'Mstart(15px) Fw(500) Fz(s)').text
-        Date = h1.replace(h2, '')
 
-        print(Date)
-        print("SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ")
+        while True:
+            try:
+                h1 = self.soup.find("h3", class_ = "Mb(10px) D(ib) Mend(25px)").text
+                h2 = self.soup.find('span',class_ = 'Mstart(15px) Fw(500) Fz(s)').text
 
-        outF = open("data.txt", "w")
-        outF.write(Date)
-        outF.write('\n')
 
-        for everyi, self.row2 in zip(composite_list,self.rows2):
-            x = 'https://finance.yahoo.com' + self.row2.select_one('.C\\(\\$linkColor\\)')['href']
-            print(everyi)
-            print(x)
-            outF.write("SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ")
-            outF.write(str(everyi))
-            outF.write('\n')
-            outF.write('\n')
-            outF.write("LINK:" + " " + x)
-            outF.write('\n')
-            outF.write('\n')
+                Date = h1.replace(h2, '')
 
-        outF.close()
+                print(Date)
+                print("SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ")
+
+                outF = open("data.txt", "w")
+                outF.write(Date)
+                outF.write('\n')
+
+                for everyi, self.row2 in zip(composite_list,self.rows2):
+                    x = 'https://finance.yahoo.com' + self.row2.select_one('.C\\(\\$linkColor\\)')['href']
+                    print(everyi)
+                    print(x)
+                    outF.write("SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ")
+                    outF.write(str(everyi))
+                    outF.write('\n')
+                    outF.write('\n')
+                    outF.write("LINK:" + " " + x)
+                    outF.write('\n')
+                    outF.write('\n')
+
+                outF.close()
+    
+                break
+            except AttributeError:
+                print("Oops! Looks like the date you entered has no Earnings announcements scheduled")
+                break
+            
 
 
 main()
