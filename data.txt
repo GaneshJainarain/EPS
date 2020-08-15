@@ -11,13 +11,13 @@ SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
 
 LINK: https://finance.yahoo.com/quote/ASFI?p=ASFI
 
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['AAMC', 'Altisource Asset Management Corp', 'TAS', '-', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/AAMC?p=AAMC
-
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['ATHM', 'Autohome Inc', 'Before Market Open', '1.03', '-', '-']
 
 LINK: https://finance.yahoo.com/quote/ATHM?p=ATHM
+
+SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['AAMC', 'Altisource Asset Management Corp', 'TAS', '-', '-', '-']
+
+LINK: https://finance.yahoo.com/quote/AAMC?p=AAMC
 
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['CAAS', 'China Automotive Systems Inc', 'Before Market Open', '-0.04', '-', '-']
 
@@ -31,13 +31,13 @@ SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
 
 LINK: https://finance.yahoo.com/quote/AKER?p=AKER
 
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['BMNM', 'Bimini Capital Management Inc', 'TAS', '-', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/BMNM?p=BMNM
-
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['BTAI', 'BioXcel Therapeutics Inc', 'TAS', '-0.75', '-', '-']
 
 LINK: https://finance.yahoo.com/quote/BTAI?p=BTAI
+
+SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['BMNM', 'Bimini Capital Management Inc', 'TAS', '-', '-', '-']
+
+LINK: https://finance.yahoo.com/quote/BMNM?p=BMNM
 
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['BOXL', 'Boxlight Corp', 'TAS', '-0.05', '-', '-']
 
@@ -71,13 +71,13 @@ SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
 
 LINK: https://finance.yahoo.com/quote/OMQS?p=OMQS
 
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['PKDC', 'Parker Drilling Co', 'Time Not Supplied', '-', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/PKDC?p=PKDC
-
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['TY', 'Tri-Continental Corp', 'Time Not Supplied', '-', '-', '-']
 
 LINK: https://finance.yahoo.com/quote/TY?p=TY
+
+SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['PKDC', 'Parker Drilling Co', 'Time Not Supplied', '-', '-', '-']
+
+LINK: https://finance.yahoo.com/quote/PKDC?p=PKDC
 
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['ENSV', 'Enservco Corp', 'TAS', '-0.05', '-', '-']
 
@@ -99,29 +99,17 @@ SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
 
 LINK: https://finance.yahoo.com/quote/CCM?p=CCM
 
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['EMMS', 'Emmis Communications Corp', 'Before Market Open', '-', '-', '-']
+SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['MSGS', 'Madison Square Garden Sports Corp', 'TAS', '-2.03', '-', '-']
 
-LINK: https://finance.yahoo.com/quote/EMMS?p=EMMS
+LINK: https://finance.yahoo.com/quote/MSGS?p=MSGS
 
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['DFODQ', 'Dean Foods Co', 'Before Market Open', '-', '-', '-']
 
 LINK: https://finance.yahoo.com/quote/DFODQ?p=DFODQ
 
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['MSGS', 'Madison Square Garden Sports Corp', 'TAS', '-2.03', '-', '-']
+SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['EMMS', 'Emmis Communications Corp', 'Before Market Open', '-', '-', '-']
 
-LINK: https://finance.yahoo.com/quote/MSGS?p=MSGS
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['CLSN', 'Celsion Corp', 'TAS', '-0.14', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/CLSN?p=CLSN
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['CPHI', 'China Pharma Holdings Inc', 'TAS', '-', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/CPHI?p=CPHI
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['FLR', 'Fluor Corp', 'Before Market Open', '-', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/FLR?p=FLR
+LINK: https://finance.yahoo.com/quote/EMMS?p=EMMS
 
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['LEGH', 'Legacy Housing Corp', 'TAS', '-', '-', '-']
 
@@ -130,6 +118,18 @@ LINK: https://finance.yahoo.com/quote/LEGH?p=LEGH
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['MSN', 'Emerson Radio Corp', 'Time Not Supplied', '-', '-', '-']
 
 LINK: https://finance.yahoo.com/quote/MSN?p=MSN
+
+SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['FLR', 'Fluor Corp', 'Before Market Open', '-', '-', '-']
+
+LINK: https://finance.yahoo.com/quote/FLR?p=FLR
+
+SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['CPHI', 'China Pharma Holdings Inc', 'TAS', '-', '-', '-']
+
+LINK: https://finance.yahoo.com/quote/CPHI?p=CPHI
+
+SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['CLSN', 'Celsion Corp', 'TAS', '-0.14', '-', '-']
+
+LINK: https://finance.yahoo.com/quote/CLSN?p=CLSN
 
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['STCC', 'Sterling Consolidated Corp', 'Time Not Supplied', '-', '-', '-']
 
@@ -151,11 +151,11 @@ SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
 
 LINK: https://finance.yahoo.com/quote/DKNG?p=DKNG
 
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['EFOI', 'Energy Focus Inc', 'Before Market Open', '-0.37', '-1.36', '-267.57']
+SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['EFOI', 'Energy Focus Inc', 'TAS', '-0.37', '-1.36', '-267.57']
 
 LINK: https://finance.yahoo.com/quote/EFOI?p=EFOI
 
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['EFOI', 'Energy Focus Inc', 'TAS', '-0.37', '-1.36', '-267.57']
+SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['EFOI', 'Energy Focus Inc', 'Before Market Open', '-0.37', '-1.36', '-267.57']
 
 LINK: https://finance.yahoo.com/quote/EFOI?p=EFOI
 
@@ -255,29 +255,29 @@ SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
 
 LINK: https://finance.yahoo.com/quote/TKOI?p=TKOI
 
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['NEON', 'Neonode Inc', 'TAS', '-0.11', '-', '-']
+SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['WSTL', 'Westell Technologies Inc', 'After Market Close', '-', '-', '-']
 
-LINK: https://finance.yahoo.com/quote/NEON?p=NEON
+LINK: https://finance.yahoo.com/quote/WSTL?p=WSTL
 
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['NEON', 'Neonode Inc', 'Before Market Open', '-0.11', '-', '-']
 
 LINK: https://finance.yahoo.com/quote/NEON?p=NEON
 
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['WSTL', 'Westell Technologies Inc', 'After Market Close', '-', '-', '-']
+SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['NEON', 'Neonode Inc', 'TAS', '-0.11', '-', '-']
 
-LINK: https://finance.yahoo.com/quote/WSTL?p=WSTL
+LINK: https://finance.yahoo.com/quote/NEON?p=NEON
 
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['USIO', 'Usio Inc', 'TAS', '-0.09', '-0.1', '-11.11']
 
 LINK: https://finance.yahoo.com/quote/USIO?p=USIO
 
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['TBLT', 'Toughbuilt Industries Inc', 'TAS', '-0.14', '-0.11', '+21.43']
-
-LINK: https://finance.yahoo.com/quote/TBLT?p=TBLT
-
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['NVFY', 'Nova LifeStyle Inc', 'Before Market Open', '-', '-', '-']
 
 LINK: https://finance.yahoo.com/quote/NVFY?p=NVFY
+
+SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['TBLT', 'Toughbuilt Industries Inc', 'TAS', '-0.14', '-0.11', '+21.43']
+
+LINK: https://finance.yahoo.com/quote/TBLT?p=TBLT
 
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ['PLXP', 'PLx Pharma Inc', 'TAS', '-0.41', '-', '-']
 

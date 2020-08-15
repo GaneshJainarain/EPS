@@ -8,6 +8,10 @@ import numpy
 from datetime import datetime
 
 
+#Need Documentation:
+#What is the purpose of the Program
+#
+
 def main():
     program = EPS_2FILE()
     program.validate_date()
@@ -55,6 +59,7 @@ class EPS_2FILE:
                 break
             except IndexError:
                 print("Oops! Looks like the date you entered has no Earnings announcements scheduled")
+                main()
                 break
 
         #self.row = self.rows[0]
@@ -70,6 +75,7 @@ class EPS_2FILE:
                 return "NICE"
             else: 
                 return("Please Enter a Valid Date")
+                
 
         except ValueError:
             return "ERRORR"
@@ -124,6 +130,7 @@ class EPS_2FILE:
                 break
             except AttributeError:
                 print("Oops! Looks like the date you entered has no Earnings announcements scheduled")
+                main()
                 break
             
 
