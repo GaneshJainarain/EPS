@@ -8,36 +8,14 @@ import numpy
 from datetime import datetime
 
 
-
-
 def main():
-    program = EPS_2FILE('2020-08-14')
-    #program.validate_date()
-    program.val
+    program = EPS_2FILE()
+    program.validate_date()
+
     print(program.val)
-
-    print("========================================================")
-    print("========================================================")
-    print(program.url)
-
     print("========================================================")
     print("========================================================")
     print(program.url2)
-
-    print("========================================================")
-    print("========================================================")
-    print(program.r)
-
-    print("========================================================")
-    print("========================================================")
-    print(program.Company_Name_List)
-    print("========================================================")
-    print("========================================================")
-
-    print(program.Create_Matrix)
-    print("========================================================")
-    print("========================================================")
-    print(program.rows)
 
     print("========================================================")
     print("========================================================")
@@ -50,29 +28,45 @@ def main():
     print(program.validate_date())
 
 
-
 class EPS_2FILE:
     
-    #val = input("Enter date in YYYY-MM-DD Format:")
-
-    def __init__(self, val):
+    def __init__(self):
         self.url = 'https://finance.yahoo.com/calendar/earnings?from=2020-07-12&to=2020-07-18&day='
-        self.val = input("Enter date in YYYY-MM-DD Format:")
+        
+        while True:
+            try:
+                self.val = input("Enter date in YYYY-MM-DD Format:")
+                if len(self.val) == 10: 
+                    datetime.strptime(self.val, '%Y-%m-%d')
+                break
+            except ValueError:
+                print("Oops! The format in which you entered is invalid. Try again using this Format YYYY-MM-DD")
+
         self.url2 = self.url + self.val
         self.r = requests.get(self.url2)
         self.soup = BeautifulSoup(self.r.content, 'html.parser')
         self.rows = self.soup.select('tbody tr td')
         self.rows2 = self.soup.select('tbody tr')
 
-        self.row = self.rows[0]
-        self.row2 = self.rows2[0]
+        while True:
+            try:
+                self.row = self.rows[0]
+                self.row2 = self.rows2[0]
+                break
+            except IndexError:
+                print("Oops! Looks like the date you entered has no Earnings announcements scheduled")
+                break
+
+        #self.row = self.rows[0]
+        #self.row2 = self.rows2[0]
         self.Company_Name_List = self.soup.find_all("td", class_ = "Va(m) Ta(start) Pend(10px) Pstart(6px) Fz(s)")
 
 
     def validate_date(self):
+
         try:
             if len(self.val) == 10: 
-                datetime.strptime(self.val, '%Y/%m/%d')
+                datetime.strptime(self.val, '%Y-%m-%d')
                 return "NICE"
             else: 
                 return False
@@ -81,16 +75,15 @@ class EPS_2FILE:
             return "ERRORR"
     
     def Company_Name(self):
-        for Company in self.Company_Name_List:
-            print(Company.text)
+
+        if self.Company_Name_List == []:
+            print("NONE")
+        else:
+            for Company in self.Company_Name_List:
+                print(Company.text)
 
     def Create_Matrix(self):
 
-        n = 6
-        m = int(len(self.rows)/6)
-        #print(m*n)
-        a = [[0 for x in range(n)] for x in range(m)] 
-        #print(a) 
         new = []
         for i in self.rows:
             l = new.append(i.text)
