@@ -1,1 +1,0 @@
-x = results.replace(results_fix, '')

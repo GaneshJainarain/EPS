@@ -31,6 +31,8 @@ for page in pages:
     h1 = soup.find("h3", class_ = "Mb(10px) D(ib) Mend(25px)").text
     h2 = soup.find('span',class_ = 'Mstart(15px) Fw(500) Fz(s)').text
     Day_Header = h1.replace(h2, '')
+    Company_Name_List = soup.find_all("td", class_ = "Va(m) Ta(start) Pend(10px) Pstart(6px) Fz(s)")
+
 
 
     for row in rows:
@@ -38,10 +40,10 @@ for page in pages:
         d = dict()
 
         d['Day Header'] = Day_Header
-        #d['Stock Name'] = 
+        #d['Stock Name'] = Company_Name_List
         d['Ticker Symbol'] = row.select_one('.C\\(\\$linkColor\\)').text.strip()
         d['Stock Link'] = 'https://finance.yahoo.com' + row.select_one('.C\\(\\$linkColor\\)')['href']
-        
+    
 
         data.append(d)
 
@@ -50,6 +52,8 @@ for page in pages:
 
         with open('DATA.json', 'r') as f:
             data = json.load(f)
+    print("===========================================")
+
 
 print(data)
 print("===========================================")
