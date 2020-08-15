@@ -5,158 +5,121 @@ from time import sleep
 import json 
 import pandas as pd 
 import numpy
-
-url = 'https://finance.yahoo.com/calendar/earnings?from=2020-07-12&to=2020-07-18&day='
-
-val = input("Enter date in YYYY-MM-DD Format:")
-
-url = url + val
-r = requests.get(url)
-soup = BeautifulSoup(r.content, 'html.parser')
-rows = soup.select('tbody tr td')
-row = rows[0]
-#name = row.select_one('.C($linkColor)').text.strip()
-
-
-Company_Name_List = soup.find_all("td", class_ = "Va(m) Ta(start) Pend(10px) Pstart(6px) Fz(s)")
-def Company_Name(Company_Name_List):
-    for Company in Company_Name_List:
-        return(Company)
-
-X = Company_Name(Company_Name_List)
-#print(Company_Name_List)
-#print(row.Company_Name_List)
-print(rows[0].text)
-
-#print(rows)
-'''
-print(len(rows))
-for i in rows:
-    print(i.text)
-
-type(rows)
-'''
-n = 6
-m = int(len(rows)/6)
-print(m*n)
-#print(n * m)
-a = [[0 for x in range(n)] for x in range(m)] 
-#print(a) 
-new = []
-for i in rows:
-    l = new.append(i.text)
+from datetime import datetime
 
 
 
-print("========================================")
-print("========================================")
-print("========================================")
-print("========================================")
-composite_list = [new[x:x+6] for x in range(0, len(new),6)]
-print("compo", composite_list)
 
-print("========================================")
-print("========================================")
-print("========================================")
-print("SYMBOL|| COMPANY|| EARNINGS CALL TIME|| EPS EST|| REPORTED EPS|| SURPRISE% ")
+def main():
+    program = EPS_2FILE('2020-08-14')
+    #program.validate_date()
+    program.val
+    print(program.val)
 
-outF = open("data.txt", "w")
-outF.write("hello")
+    print("========================================================")
+    print("========================================================")
+    print(program.url)
 
-for everyi in composite_list:
-    data = []
-    d = dict()
-    #print("SYMBOL|| COMPANY    || EARNINGS CALL TIME||   EPS EST|| REPORTED EPS|| SURPRISE% ")
-    print(everyi)
-    outF.write(str(everyi))
-    outF.write('\n')
-outF.close()
+    print("========================================================")
+    print("========================================================")
+    print(program.url2)
+
+    print("========================================================")
+    print("========================================================")
+    print(program.r)
+
+    print("========================================================")
+    print("========================================================")
+    print(program.Company_Name_List)
+    print("========================================================")
+    print("========================================================")
+
+    print(program.Create_Matrix)
+    print("========================================================")
+    print("========================================================")
+    print(program.rows)
+
+    print("========================================================")
+    print("========================================================")
+    print(program.Company_Name())
+    print("========================================================")
+    print("========================================================")
+    print(program.Create_Matrix())
+    print("========================================================")
+    print("========================================================")
+    print(program.validate_date())
+
+
+
+class EPS_2FILE:
     
+    #val = input("Enter date in YYYY-MM-DD Format:")
 
-'''
-    #print(everyi[0])
-    #print(everyi[1])
-    #print(everyi[2])
-    #print(everyi[3])
-    #print(everyi[4])
-    #print(everyi[5])
+    def __init__(self, val):
+        self.url = 'https://finance.yahoo.com/calendar/earnings?from=2020-07-12&to=2020-07-18&day='
+        self.val = input("Enter date in YYYY-MM-DD Format:")
+        self.url2 = self.url + self.val
+        self.r = requests.get(self.url2)
+        self.soup = BeautifulSoup(self.r.content, 'html.parser')
+        self.rows = self.soup.select('tbody tr td')
+        self.rows2 = self.soup.select('tbody tr')
 
-    d['Ticker Symbol'] = everyi[0]
-    d['Stock Name'] = everyi[1]
-    d['Earnings Call Time'] = everyi[2]
-    d['EPS Estimate'] = everyi[3]
-    d['Reported EPS'] = everyi[4]
-    d['Surprise(%)'] = everyi[5]
-    data.append(d)
-    print(d.get("Ticker Symbol"))
-    print(d.get("Stock Name"))
-    print(d.get("Earnings Call Time"))
-    print(d.get("EPS Estimate"))
-    print(d.get("Reported EPS"))
-    print(d.get("Surprise(%)"))
+        self.row = self.rows[0]
+        self.row2 = self.rows2[0]
+        self.Company_Name_List = self.soup.find_all("td", class_ = "Va(m) Ta(start) Pend(10px) Pstart(6px) Fz(s)")
+
+
+    def validate_date(self):
+        try:
+            if len(self.val) == 10: 
+                datetime.strptime(self.val, '%Y/%m/%d')
+                return "NICE"
+            else: 
+                return False
+
+        except ValueError:
+            return "ERRORR"
     
+    def Company_Name(self):
+        for Company in self.Company_Name_List:
+            print(Company.text)
 
-print("========================================")
-print("========================================")
-print("========================================")
-print("========================================")
+    def Create_Matrix(self):
 
-'''
+        n = 6
+        m = int(len(self.rows)/6)
+        #print(m*n)
+        a = [[0 for x in range(n)] for x in range(m)] 
+        #print(a) 
+        new = []
+        for i in self.rows:
+            l = new.append(i.text)
+        composite_list = [new[x:x+6] for x in range(0, len(new),6)]
 
-print(composite_list[0][0])
-print("=================================================================")
+        h1 = self.soup.find("h3", class_ = "Mb(10px) D(ib) Mend(25px)").text
+        h2 = self.soup.find('span',class_ = 'Mstart(15px) Fw(500) Fz(s)').text
+        Date = h1.replace(h2, '')
 
-'''
-for stock_list in composite_list:
-    print(stock_list)
-    for sub_list in stock_list:
-        print(sub_list)
+        print(Date)
+        print("SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ")
 
+        outF = open("data.txt", "w")
+        outF.write(Date)
+        outF.write('\n')
 
-data = []
-for i in composite_list:
-    #print(i)
-    #print(i[0])
-    #print(i[1])
-    #print(i[2])
-    #print(i[3])
-    #print(stock_list[a])
-    #print(stock_list[b])
-    #print(stock_list[c])
-    #print(stock_list[d])
-    
-    d = dict()
+        for everyi, self.row2 in zip(composite_list,self.rows2):
+            x = 'https://finance.yahoo.com' + self.row2.select_one('.C\\(\\$linkColor\\)')['href']
+            print(everyi)
+            print(x)
+            outF.write("SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% ")
+            outF.write(str(everyi))
+            outF.write('\n')
+            outF.write('\n')
+            outF.write("LINK:" + " " + x)
+            outF.write('\n')
+            outF.write('\n')
 
-    d['Ticker Symbol'] = i[0]
-    d['Stock Name'] = i[1]
-    d['Earnings Call Time'] = i[2]
-    d['EPS Estimate'] = i[3]
-    d['Reported EPS'] = i[4]
-    d['Surprise(%)'] = i[5]
-    
-
-
-    #print(stock_list[b]+ "++++++++++++++++++++++++++++++++")
-    
-
-    data.append(d)
-    print(data)
+        outF.close()
 
 
-    with open('yahoo_page_finance.json', 'w') as f:
-        json.dump(data, f)
-
-    with open('yahoo_page_finance.json', 'r') as f:
-        data = json.load(f)
-
-        
-
-print("==================================================================")
-print("==================================================================")
-print("==================================================================")
-'''
-for key, value in d.items():
-    print (key, value)
-
-    #print(len(stock_list))
-
+main()
