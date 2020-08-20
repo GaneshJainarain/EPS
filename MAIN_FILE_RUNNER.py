@@ -1,9 +1,13 @@
+from selenium import webdriver
 import requests
 import bs4
 from bs4 import BeautifulSoup
 import json 
 from datetime import datetime
-
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+import selenium
+import time
 
 
 #Purpose of the Program:
@@ -61,13 +65,15 @@ class EPS_2FILE:
                     datetime.strptime(self.val, '%Y-%m-%d')
                 break
             except ValueError:
-                print("1Oops! The format in which you entered is invalid. Try again using this Format YYYY-MM-DD")
+                print("Oops! The format in which you entered is invalid. Try again using this Format YYYY-MM-DD")
 
         self.url2 = self.url + self.val
         self.r = requests.get(self.url2)
         self.soup = BeautifulSoup(self.r.content, 'html.parser')
         self.rows = self.soup.select('tbody tr td')
         self.rows2 = self.soup.select('tbody tr')
+        self.driver = webdriver.Chrome('/Users/richeyjay/Desktop/EPS1/chromedriver')
+        self.get = self.driver.get(self.url2)
 
         while True:
             try:
@@ -75,7 +81,7 @@ class EPS_2FILE:
                 self.row2 = self.rows2[0]
                 break
             except IndexError:
-                print("2Oops! Looks like the date you entered has no Earnings announcements scheduled or you entered an invalid input")
+                print("Oops! Looks like the date you entered has no Earnings announcements scheduled or you entered an invalid input")
                 main()
                 break
         self.Company_Name_List = self.soup.find_all("td", class_ = "Va(m) Ta(start) Pend(10px) Pstart(6px) Fz(s)")
@@ -166,10 +172,18 @@ class EPS_2FILE:
                 break
             #Catches any AttributeError 
             except AttributeError:
-                print("3Oops! Looks like the date you entered has no Earnings announcements scheduled")
+                print("Oops! Looks like the date you entered has no Earnings announcements scheduled")
                 main()
                 break
             
+
+driver = webdriver.Chrome('path/to/chromedriver')
+driver.get('https://finance.yahoo.com/calendar/earnings?from=2020-07-26&to=2020-08-01&day=2020-07-29')
+css_selector = "div[Va(m) H(20px) Bd(0) M(0) P(0) Fz(s) Pstart(10px) O(n):f Fw(500) C($linkColor)']"
+button_element = driver.find_element_by_css_selector(css_selector)
+button_element.click()
+
+
 
 
 main()

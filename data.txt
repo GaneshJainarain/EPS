@@ -1,503 +1,58 @@
-                                Earnings on Thu, Jul 30
-                                   1-100 of 175 results
+                                Earnings on Wed, Sep 09
+                                   1-11 of 11 results
 
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['ALPP', 'Alpine 4 Technologies Ltd', 'Time Not Supplied', '-', '-', '-']
+['ALOT', 'AstroNova Inc', 'Before Market Open', '-0.06', '-', '-']
 
-LINK: https://finance.yahoo.com/quote/ALPP?p=ALPP
+LINK: https://finance.yahoo.com/quote/ALOT?p=ALOT
 
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['PSX', 'Phillips 66', 'Time Not Supplied', '-0.92', '-0.74', '+20']
+['AVAV', 'AeroVironment Inc', 'After Market Close', '0.4', '-', '-']
 
-LINK: https://finance.yahoo.com/quote/PSX?p=PSX
+LINK: https://finance.yahoo.com/quote/AVAV?p=AVAV
 
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['PSXP', 'Phillips 66 Partners LP', 'Time Not Supplied', '0.74', '1.05', '+42.28']
+['MCFT', 'Mastercraft Boat Holdings Inc', 'Before Market Open', '-0.23', '-', '-']
 
-LINK: https://finance.yahoo.com/quote/PSXP?p=PSXP
+LINK: https://finance.yahoo.com/quote/MCFT?p=MCFT
 
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['ARGC', 'Arion Group Corp', 'Time Not Supplied', '-', '-', '-']
+['MCFT', 'Mastercraft Boat Holdings Inc', 'TAS', '-0.23', '-', '-']
 
-LINK: https://finance.yahoo.com/quote/ARGC?p=ARGC
+LINK: https://finance.yahoo.com/quote/MCFT?p=MCFT
 
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['BAH', 'Booz Allen Hamilton Holding Corporation', 'Time Not Supplied', '0.86', '0.93', '+8.27']
+['ORCL', 'Oracle Corp', 'Time Not Supplied', '0.86', '-', '-']
 
-LINK: https://finance.yahoo.com/quote/BAH?p=BAH
+LINK: https://finance.yahoo.com/quote/ORCL?p=ORCL
 
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['ABBV', 'AbbVie Inc.', 'Time Not Supplied', '2.19', '2.34', '+6.9']
+['COE', 'China Online Education Group', 'Before Market Open', '0.11', '-', '-']
 
-LINK: https://finance.yahoo.com/quote/ABBV?p=ABBV
+LINK: https://finance.yahoo.com/quote/COE?p=COE
 
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['UAA', 'Under Armour, Inc.', 'Time Not Supplied', '-0.41', '-0.31', '+24.21']
+['GFNCP', 'General Finance Corp', 'Before Market Open', '-', '-', '-']
 
-LINK: https://finance.yahoo.com/quote/UAA?p=UAA
+LINK: https://finance.yahoo.com/quote/GFNCP?p=GFNCP
 
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['ICAGY', 'International Consolidated Airlines Group, S.A.', 'Time Not Supplied', '-', '-', '-']
+['PHR', 'Phreesia Inc', 'TAS', '-0.13', '-', '-']
 
-LINK: https://finance.yahoo.com/quote/ICAGY?p=ICAGY
+LINK: https://finance.yahoo.com/quote/PHR?p=PHR
 
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['GOL', 'Gol Linhas Aéreas Inteligentes S.A.', 'Time Not Supplied', '-0.91', '-2.09', '-129.7']
+['ZS', 'Zscaler Inc', 'After Market Close', '0.02', '-', '-']
 
-LINK: https://finance.yahoo.com/quote/GOL?p=GOL
+LINK: https://finance.yahoo.com/quote/ZS?p=ZS
 
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['IUSDF', 'AS ONE Corporation', 'Time Not Supplied', '-', '65.51', '-']
+['OXM', 'Oxford Industries Inc', 'Time Not Supplied', '-0.61', '-', '-']
 
-LINK: https://finance.yahoo.com/quote/IUSDF?p=IUSDF
+LINK: https://finance.yahoo.com/quote/OXM?p=OXM
 
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['AMPE', 'Ampio Pharmaceuticals, Inc.', 'Time Not Supplied', '-0.04', '-0.02', '+50']
+['NCNO', 'nCino Inc', 'After Market Close', '-0.05', '-', '-']
 
-LINK: https://finance.yahoo.com/quote/AMPE?p=AMPE
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['EBKOF', 'Erste Group Bank AG', 'Time Not Supplied', '-', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/EBKOF?p=EBKOF
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['ACDVF', 'Air Canada', 'Time Not Supplied', '-3.74', '-4.01', '-7.16']
-
-LINK: https://finance.yahoo.com/quote/ACDVF?p=ACDVF
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['AINC', 'Ashford Inc', 'After Market Close', '-0.1', '0.12', '+220']
-
-LINK: https://finance.yahoo.com/quote/AINC?p=AINC
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['AINC', 'Ashford Inc.', 'Time Not Supplied', '-0.1', '0.12', '+220']
-
-LINK: https://finance.yahoo.com/quote/AINC?p=AINC
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['BTI', 'British American Tobacco p.l.c.', 'Time Not Supplied', '-', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/BTI?p=BTI
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['ATRO', 'Astronics Corporation', 'Time Not Supplied', '-0.31', '-0.77', '-146.01']
-
-LINK: https://finance.yahoo.com/quote/ATRO?p=ATRO
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['FCAU', 'Fiat Chrysler Automobiles N.V.', 'Time Not Supplied', '-1.15', '-0.65', '+43.63']
-
-LINK: https://finance.yahoo.com/quote/FCAU?p=FCAU
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['AXL', 'American Axle & Manufacturing Holdings, Inc.', 'Time Not Supplied', '-1.98', '-1.79', '+9.69']
-
-LINK: https://finance.yahoo.com/quote/AXL?p=AXL
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['ASIX', 'AdvanSix Inc.', 'Time Not Supplied', '0.31', '0.41', '+32.26']
-
-LINK: https://finance.yahoo.com/quote/ASIX?p=ASIX
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['ABEV', 'Ambev S.A.', 'Time Not Supplied', '0.01', '0.02', '+45.45']
-
-LINK: https://finance.yahoo.com/quote/ABEV?p=ABEV
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['ABR', 'Arbor Realty Trust, Inc.', 'Time Not Supplied', '0.27', '0.4', '+49.25']
-
-LINK: https://finance.yahoo.com/quote/ABR?p=ABR
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['KYN', 'Kayne Anderson MLP/Midstream Investment Co', 'Time Not Supplied', '-', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/KYN?p=KYN
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['EBKDY', 'Erste Group Bank AG', 'Time Not Supplied', '-', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/EBKDY?p=EBKDY
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['ABR-PC', 'Arbor Realty Trust, Inc.', 'Time Not Supplied', '0.27', '0.4', '+49.25']
-
-LINK: https://finance.yahoo.com/quote/ABR-PC?p=ABR-PC
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['BTAFF', 'British American Tobacco p.l.c.', 'Time Not Supplied', '-', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/BTAFF?p=BTAFF
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['AON', 'Aon Plc', 'Time Not Supplied', '1.93', '1.96', '+1.61']
-
-LINK: https://finance.yahoo.com/quote/AON?p=AON
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['ASX', 'ASE Technology Holding Co., Ltd.', 'Time Not Supplied', '0.1', '0.11', '+12.63']
-
-LINK: https://finance.yahoo.com/quote/ASX?p=ASX
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['AUBN', 'Auburn National Bancorporation Inc', 'Before Market Open', '-', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/AUBN?p=AUBN
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['ADIMF', 'Asahi Diamond Industrial Co., Ltd.', 'Time Not Supplied', '-3.6', '1.42', '+139.44']
-
-LINK: https://finance.yahoo.com/quote/ADIMF?p=ADIMF
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['BERY', 'Berry Global Group, Inc.', 'Time Not Supplied', '1.15', '1.52', '+32.4']
-
-LINK: https://finance.yahoo.com/quote/BERY?p=BERY
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['RBS', 'The Royal Bank of Scotland Group plc', 'Time Not Supplied', '-', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/RBS?p=RBS
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['HFBL', 'Home Federal Bancorp Inc of Louisiana', 'After Market Close', '-', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/HFBL?p=HFBL
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['SAL', 'Salisbury Bancorp, Inc.', 'Time Not Supplied', '0.47', '0.96', '+106.45']
-
-LINK: https://finance.yahoo.com/quote/SAL?p=SAL
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['BTGOF', 'BT Group plc', 'Time Not Supplied', '-', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/BTGOF?p=BTGOF
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['CLDB', 'Cortland Bancorp', 'Time Not Supplied', '-', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/CLDB?p=CLDB
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['FDBC', 'Fidelity D&D Bancorp Inc', 'Time Not Supplied', '-', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/FDBC?p=FDBC
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['PFBI', 'Premier Financial Bancorp Inc', 'TAS', '-', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/PFBI?p=PFBI
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['FNWB', 'First Northwest Bancorp', 'TAS', '-', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/FNWB?p=FNWB
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['BWMX', 'Betterware De Mexico SA de CV', 'Time Not Supplied', '-', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/BWMX?p=BWMX
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['LBRDK', 'Liberty Broadband Corporation', 'Time Not Supplied', '0.45', '0.39', '-13.53']
-
-LINK: https://finance.yahoo.com/quote/LBRDK?p=LBRDK
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['LBRDA', 'Liberty Broadband Corporation', 'Time Not Supplied', '0.68', '0.39', '-42.65']
-
-LINK: https://finance.yahoo.com/quote/LBRDA?p=LBRDA
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['BNPQY', 'BNP Paribas SA', 'Time Not Supplied', '-', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/BNPQY?p=BNPQY
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['BCC', 'Boise Cascade Company', 'Time Not Supplied', '0.54', '0.85', '+57.99']
-
-LINK: https://finance.yahoo.com/quote/BCC?p=BCC
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['BELFB', 'Bel Fuse Inc.', 'Time Not Supplied', '-0.3', '0.46', '+250.82']
-
-LINK: https://finance.yahoo.com/quote/BELFB?p=BELFB
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['BCPC', 'Balchem Corporation', 'Time Not Supplied', '0.56', '0.85', '+51.79']
-
-LINK: https://finance.yahoo.com/quote/BCPC?p=BCPC
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['NWL', 'Newell Brands Inc.', 'Time Not Supplied', '0.18', '0.3', '+66.67']
-
-LINK: https://finance.yahoo.com/quote/NWL?p=NWL
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['UBX', 'Unity Biotechnology, Inc.', 'Time Not Supplied', '-0.51', '-0.38', '+25.64']
-
-LINK: https://finance.yahoo.com/quote/UBX?p=UBX
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['NBN', 'Northeast Bank', 'TAS', '0.71', '0.56', '-21.13']
-
-LINK: https://finance.yahoo.com/quote/NBN?p=NBN
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['QNTO', 'Quaint Oak Bancorp Inc', 'After Market Close', '-', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/QNTO?p=QNTO
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['HYKUF', 'The Hyakugo Bank, Ltd.', 'Time Not Supplied', '-', '11.26', '-']
-
-LINK: https://finance.yahoo.com/quote/HYKUF?p=HYKUF
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['FGBI', 'First Guaranty Bancshares, Inc.', 'Time Not Supplied', '0.3', '0.42', '+40']
-
-LINK: https://finance.yahoo.com/quote/FGBI?p=FGBI
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['RILY', 'B. Riley Financial Inc', 'After Market Close', '-', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/RILY?p=RILY
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['TAP', 'Molson Coors Beverage Co', 'Before Market Open', '0.68', '1.55', '+127.94']
-
-LINK: https://finance.yahoo.com/quote/TAP?p=TAP
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['PDLB', 'PDL Community Bancorp', 'Time Not Supplied', '-', '-0.03', '-']
-
-LINK: https://finance.yahoo.com/quote/PDLB?p=PDLB
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['BELFA', 'Bel Fuse Inc.', 'Time Not Supplied', '-0.23', '0.43', '+286.96']
-
-LINK: https://finance.yahoo.com/quote/BELFA?p=BELFA
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['SPB', 'Spectrum Brands Holdings, Inc.', 'Time Not Supplied', '0.93', '1.36', '+46.55']
-
-LINK: https://finance.yahoo.com/quote/SPB?p=SPB
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['CNCN', 'Chun Can Capital Group', 'After Market Close', '-', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/CNCN?p=CNCN
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['CBRE', 'CBRE Group, Inc.', 'Time Not Supplied', '0.42', '0.35', '-17.45']
-
-LINK: https://finance.yahoo.com/quote/CBRE?p=CBRE
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['PIPR', 'Piper Sandler Companies', 'Time Not Supplied', '1.18', '1.93', '+63.28']
-
-LINK: https://finance.yahoo.com/quote/PIPR?p=PIPR
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['NGHC', 'National General Holdings Corp.', 'Time Not Supplied', '0.81', '1.36', '+68.32']
-
-LINK: https://finance.yahoo.com/quote/NGHC?p=NGHC
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['NOK', 'Nokia Corporation', 'Time Not Supplied', '0.03', '0.07', '+153.85']
-
-LINK: https://finance.yahoo.com/quote/NOK?p=NOK
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['MRK', 'Merck & Co., Inc.', 'Time Not Supplied', '1.04', '1.37', '+31.6']
-
-LINK: https://finance.yahoo.com/quote/MRK?p=MRK
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['THFF', 'First Financial Corporation', 'Time Not Supplied', '0.61', '0.87', '+41.92']
-
-LINK: https://finance.yahoo.com/quote/THFF?p=THFF
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['SEKEY', 'Seiko Epson Corporation', 'Time Not Supplied', '-', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/SEKEY?p=SEKEY
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['TAK', 'Takeda Pharmaceutical Company Limited', 'Time Not Supplied', '104', '26.47', '-74.55']
-
-LINK: https://finance.yahoo.com/quote/TAK?p=TAK
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['DACHF', 'Daicel Corporation', 'Time Not Supplied', '7.24', '2.08', '-71.27']
-
-LINK: https://finance.yahoo.com/quote/DACHF?p=DACHF
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['TOAGF', 'Toagosei Co., Ltd.', 'Time Not Supplied', '-', '15.71', '-']
-
-LINK: https://finance.yahoo.com/quote/TOAGF?p=TOAGF
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['TRXPF', 'Torii Pharmaceutical Co., Ltd.', 'Time Not Supplied', '-', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/TRXPF?p=TRXPF
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['MKMLF', 'Makino Milling Machine Co., Ltd.', 'Time Not Supplied', '-', '-81.78', '-']
-
-LINK: https://finance.yahoo.com/quote/MKMLF?p=MKMLF
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['SOHGF', 'Sohgo Security Services Co.,Ltd.', 'Time Not Supplied', '-', '44.48', '-']
-
-LINK: https://finance.yahoo.com/quote/SOHGF?p=SOHGF
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['CMTUF', 'Comture Corporation', 'Time Not Supplied', '-', '11.6', '-']
-
-LINK: https://finance.yahoo.com/quote/CMTUF?p=CMTUF
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['DSNKY', 'Daiichi Sankyo Company, Limited', 'Time Not Supplied', '45.8', '49.15', '+7.31']
-
-LINK: https://finance.yahoo.com/quote/DSNKY?p=DSNKY
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['CHD', 'Church & Dwight Co., Inc.', 'Time Not Supplied', '0.63', '0.77', '+21.84']
-
-LINK: https://finance.yahoo.com/quote/CHD?p=CHD
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['MZDAY', 'Mazda Motor Corporation', 'Time Not Supplied', '-182.3', '-105.89', '+41.91']
-
-LINK: https://finance.yahoo.com/quote/MZDAY?p=MZDAY
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['TWMC', 'Trans World Entertainment Corporation', 'Time Not Supplied', '-', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/TWMC?p=TWMC
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['XOM', 'Exxon Mobil Corporation', 'Time Not Supplied', '-0.61', '-0.7', '-14.38']
-
-LINK: https://finance.yahoo.com/quote/XOM?p=XOM
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['CHTR', 'Charter Communications, Inc.', 'Time Not Supplied', '2.44', '3.63', '+48.65']
-
-LINK: https://finance.yahoo.com/quote/CHTR?p=CHTR
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['TKPHF', 'Takeda Pharmaceutical Company Limited', 'Time Not Supplied', '7.96', '52.93', '+564.95']
-
-LINK: https://finance.yahoo.com/quote/TKPHF?p=TKPHF
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['CKOCF', 'Chudenko Corporation', 'Time Not Supplied', '-', '18.2', '-']
-
-LINK: https://finance.yahoo.com/quote/CKOCF?p=CKOCF
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['OKEPF', 'The Okinawa Electric Power Company, Incorporated', 'Time Not Supplied', '-', '-7.37', '-']
-
-LINK: https://finance.yahoo.com/quote/OKEPF?p=OKEPF
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['CMICF', 'CMIC HOLDINGS Co., Ltd.', 'Time Not Supplied', '-', '49.42', '-']
-
-LINK: https://finance.yahoo.com/quote/CMICF?p=CMICF
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['MEIJF', 'Meiji Electric Industries Co.,Ltd.', 'Time Not Supplied', '-', '14.97', '-']
-
-LINK: https://finance.yahoo.com/quote/MEIJF?p=MEIJF
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['ECRP', 'Chee Corp', 'Time Not Supplied', '-', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/ECRP?p=ECRP
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['CL', 'Colgate-Palmolive Company', 'Time Not Supplied', '0.7', '0.74', '+6.47']
-
-LINK: https://finance.yahoo.com/quote/CL?p=CL
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['NGHCP', 'National General Holdings Corp.', 'Time Not Supplied', '0.81', '1.36', '+68.32']
-
-LINK: https://finance.yahoo.com/quote/NGHCP?p=NGHCP
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['CAT', 'Caterpillar Inc.', 'Time Not Supplied', '0.64', '1.03', '+59.94']
-
-LINK: https://finance.yahoo.com/quote/CAT?p=CAT
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['GT', 'The Goodyear Tire & Rubber Company', 'Time Not Supplied', '-2.07', '-1.87', '+9.57']
-
-LINK: https://finance.yahoo.com/quote/GT?p=GT
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['POR', 'Portland General Electric Company', 'Time Not Supplied', '0.33', '0.43', '+29.13']
-
-LINK: https://finance.yahoo.com/quote/POR?p=POR
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['TAC', 'TransAlta Corporation', 'Time Not Supplied', '-0.17', '-0.22', '-27.91']
-
-LINK: https://finance.yahoo.com/quote/TAC?p=TAC
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['WY', 'Weyerhaeuser Company', 'Time Not Supplied', '0.01', '0.11', '+2100']
-
-LINK: https://finance.yahoo.com/quote/WY?p=WY
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['JCI', 'Johnson Controls International plc', 'Time Not Supplied', '0.48', '0.67', '+39.29']
-
-LINK: https://finance.yahoo.com/quote/JCI?p=JCI
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['ITHUF', 'iAnthus Capital Holdings, Inc.', 'Time Not Supplied', '-0.17', '-0.15', '+11.76']
-
-LINK: https://finance.yahoo.com/quote/ITHUF?p=ITHUF
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['CUPUF', 'Caribbean Utilities Company, Ltd.', 'Time Not Supplied', '-', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/CUPUF?p=CUPUF
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['DWSN', 'Dawson Geophysical Co', 'Before Market Open', '-', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/DWSN?p=DWSN
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['GHHC', 'GH Capital Inc', 'Time Not Supplied', '-', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/GHHC?p=GHHC
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['CXP', 'Columbia Property Trust, Inc.', 'Time Not Supplied', '0.03', '0.04', '+33.33']
-
-LINK: https://finance.yahoo.com/quote/CXP?p=CXP
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['CBOE', 'Cboe Global Markets, Inc.', 'Time Not Supplied', '1.23', '1.31', '+6.24']
-
-LINK: https://finance.yahoo.com/quote/CBOE?p=CBOE
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['CTS', 'CTS Corporation', 'Time Not Supplied', '0.07', '0.16', '+138.81']
-
-LINK: https://finance.yahoo.com/quote/CTS?p=CTS
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['CIXPF', 'CaixaBank, S.A.', 'Time Not Supplied', '0.02', '0.02', '-']
-
-LINK: https://finance.yahoo.com/quote/CIXPF?p=CIXPF
+LINK: https://finance.yahoo.com/quote/NCNO?p=NCNO
 
