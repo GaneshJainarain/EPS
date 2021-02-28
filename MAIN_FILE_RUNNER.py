@@ -8,6 +8,8 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import selenium
 import time
+from selenium.webdriver.support.ui import WebDriverWait
+
 
 
 #Purpose of the Program:
@@ -72,9 +74,7 @@ class EPS_2FILE:
         self.soup = BeautifulSoup(self.r.content, 'html.parser')
         self.rows = self.soup.select('tbody tr td')
         self.rows2 = self.soup.select('tbody tr')
-        self.driver = webdriver.Chrome('/Users/richeyjay/Desktop/EPS1/chromedriver')
-        self.get = self.driver.get(self.url2)
-
+        
         while True:
             try:
                 self.row = self.rows[0]
@@ -175,15 +175,5 @@ class EPS_2FILE:
                 print("Oops! Looks like the date you entered has no Earnings announcements scheduled")
                 main()
                 break
-            
-
-driver = webdriver.Chrome('path/to/chromedriver')
-driver.get('https://finance.yahoo.com/calendar/earnings?from=2020-07-26&to=2020-08-01&day=2020-07-29')
-css_selector = "div[Va(m) H(20px) Bd(0) M(0) P(0) Fz(s) Pstart(10px) O(n):f Fw(500) C($linkColor)']"
-button_element = driver.find_element_by_css_selector(css_selector)
-button_element.click()
-
-
-
-
+          
 main()

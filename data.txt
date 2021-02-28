@@ -1,58 +1,68 @@
-                                Earnings on Wed, Sep 09
-                                   1-11 of 11 results
+                                Earnings on Tue, Mar 23
+                                   1-13 of 13 results
 
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['ALOT', 'AstroNova Inc', 'Before Market Open', '-0.06', '-', '-']
+['ADBE', 'Adobe Inc', 'Time Not Supplied', '2.78', '-', '-']
 
-LINK: https://finance.yahoo.com/quote/ALOT?p=ALOT
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['AVAV', 'AeroVironment Inc', 'After Market Close', '0.4', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/AVAV?p=AVAV
+LINK: https://finance.yahoo.com/quote/ADBE?p=ADBE
 
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['MCFT', 'Mastercraft Boat Holdings Inc', 'Before Market Open', '-0.23', '-', '-']
+['BKEPP', 'Blueknight Energy Partners LP', 'Time Not Supplied', '-', '-', '-']
 
-LINK: https://finance.yahoo.com/quote/MCFT?p=MCFT
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['MCFT', 'Mastercraft Boat Holdings Inc', 'TAS', '-0.23', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/MCFT?p=MCFT
+LINK: https://finance.yahoo.com/quote/BKEPP?p=BKEPP
 
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['ORCL', 'Oracle Corp', 'Time Not Supplied', '0.86', '-', '-']
+['RIOT', 'Riot Blockchain Inc', 'After Market Close', '-0.08', '-', '-']
 
-LINK: https://finance.yahoo.com/quote/ORCL?p=ORCL
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['COE', 'China Online Education Group', 'Before Market Open', '0.11', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/COE?p=COE
+LINK: https://finance.yahoo.com/quote/RIOT?p=RIOT
 
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['GFNCP', 'General Finance Corp', 'Before Market Open', '-', '-', '-']
+['BBDC', 'Barings BDC Inc', 'After Market Close', '0.17', '-', '-']
 
-LINK: https://finance.yahoo.com/quote/GFNCP?p=GFNCP
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['PHR', 'Phreesia Inc', 'TAS', '-0.13', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/PHR?p=PHR
+LINK: https://finance.yahoo.com/quote/BBDC?p=BBDC
 
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['ZS', 'Zscaler Inc', 'After Market Close', '0.02', '-', '-']
+['BIOC', 'Biocept Inc', 'After Market Close', '-0.27', '-', '-']
 
-LINK: https://finance.yahoo.com/quote/ZS?p=ZS
-
-SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['OXM', 'Oxford Industries Inc', 'Time Not Supplied', '-0.61', '-', '-']
-
-LINK: https://finance.yahoo.com/quote/OXM?p=OXM
+LINK: https://finance.yahoo.com/quote/BIOC?p=BIOC
 
 SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
-['NCNO', 'nCino Inc', 'After Market Close', '-0.05', '-', '-']
+['OCX', 'OncoCyte Corp', 'Time Not Supplied', '-0.11', '-', '-']
 
-LINK: https://finance.yahoo.com/quote/NCNO?p=NCNO
+LINK: https://finance.yahoo.com/quote/OCX?p=OCX
+
+SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
+['FUL', 'HB Fuller Co', 'Time Not Supplied', '0.48', '-', '-']
+
+LINK: https://finance.yahoo.com/quote/FUL?p=FUL
+
+SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
+['DCTH', 'Delcath Systems Inc', 'After Market Close', '-1.08', '-', '-']
+
+LINK: https://finance.yahoo.com/quote/DCTH?p=DCTH
+
+SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
+['YRD', 'Yiren Digital Ltd', 'After Market Close', '-', '-', '-']
+
+LINK: https://finance.yahoo.com/quote/YRD?p=YRD
+
+SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
+['LGL', 'LGL Group Inc', 'After Market Close', '-', '-', '-']
+
+LINK: https://finance.yahoo.com/quote/LGL?p=LGL
+
+SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
+['MG', 'Mistras Group Inc', 'After Market Close', '-0.02', '-', '-']
+
+LINK: https://finance.yahoo.com/quote/MG?p=MG
+
+SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
+['WGO', 'Winnebago Industries Inc', 'Before Market Open', '1.39', '-', '-']
+
+LINK: https://finance.yahoo.com/quote/WGO?p=WGO
+
+SYMBOL||  COMPANY||  EARNINGS CALL TIME||  EPS EST||  REPORTED EPS||  SURPRISE% 
+['PAYX', 'Paychex Inc', 'Before Market Open', '0.92', '-', '-']
+
+LINK: https://finance.yahoo.com/quote/PAYX?p=PAYX
 
